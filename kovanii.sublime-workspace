@@ -1,0 +1,1134 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dark",
+				"darken	darken()"
+			],
+			[
+				"ba",
+				"background	(main.scss)"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"content",
+				"content/"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"focus",
+				"focusout	.focusout()"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"whi",
+				"white-space"
+			],
+			[
+				"ff",
+				"ff-a	font-family: Arial, \"Helvetica Neue\", Helvetica, sans-serif;"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"cli",
+				"click	.click()"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"fa",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"read",
+				"ready	$(document).ready"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"fade",
+				"fadeIn	.fadeIn()"
+			],
+			[
+				"pa",
+				"parallax	(single.php)"
+			],
+			[
+				"opa",
+				"opacity	(style.scss)"
+			],
+			[
+				"hid",
+				"hidden"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"my",
+				"myHeight"
+			],
+			[
+				"eve",
+				"evenContainerBlock"
+			],
+			[
+				"tog",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"has",
+				"hasClass	.hasClass()"
+			],
+			[
+				"re",
+				"ready	jQuery(document).ready"
+			],
+			[
+				"do",
+				"document	(footer.php)"
+			],
+			[
+				"unde",
+				"underline"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"child",
+				"children	(site.js)"
+			],
+			[
+				"user",
+				"userParent"
+			],
+			[
+				"dakr",
+				"darkblue	(style.scss)"
+			],
+			[
+				"A",
+				"ARROWS"
+			],
+			[
+				"media",
+				"@media	@media ${1:screen} {\n	${0}\n}"
+			],
+			[
+				"ic",
+				"ico-okpay.png	w:25 h:25"
+			],
+			[
+				"foo",
+				"footer.jpg	w:1920 h:247"
+			],
+			[
+				"bac",
+				"background-attachment"
+			],
+			[
+				"exe",
+				"extend	@extend"
+			],
+			[
+				"transp",
+				"transparent"
+			],
+			[
+				"header",
+				"header.jpg	w:1920 h:960"
+			],
+			[
+				"getEle",
+				"getElementById(${0:id})	Element"
+			],
+			[
+				"transpa",
+				"transparent	(_mixin.scss)"
+			],
+			[
+				"bod",
+				"body.jpg	w:400 h:375"
+			],
+			[
+				"toggle",
+				"toggleClass	(scripts.js)"
+			],
+			[
+				"targ",
+				"target=\"_blank	(scripts.js)"
+			],
+			[
+				"tar",
+				"target=\"_blank	(scripts.js)"
+			],
+			[
+				"hei",
+				"height	(main.scss)"
+			],
+			[
+				"ex",
+				"extend	@extend"
+			],
+			[
+				"clea",
+				"clearfix	(single-pholio.php)"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"cu",
+				"cur-p	cursor: pointer;"
+			],
+			[
+				"la",
+				"last-child  (pseudo-class)"
+			],
+			[
+				"border",
+				"border-image: "
+			],
+			[
+				"bord",
+				"border-image:   (property)"
+			],
+			[
+				"n",
+				"nth-child(  (pseudo-class)"
+			],
+			[
+				"firs",
+				"first-child"
+			],
+			[
+				"trs",
+				"trs	transition: ${1:prop} ${2:time};"
+			],
+			[
+				"imp",
+				"@import	@import url(${0});"
+			],
+			[
+				"li",
+				"lighten(color, 10%)"
+			],
+			[
+				"article-",
+				"article-title"
+			],
+			[
+				"d",
+				"disc"
+			],
+			[
+				"in",
+				"inside"
+			],
+			[
+				"list-style-",
+				"list-style-position"
+			],
+			[
+				"liststyle",
+				"list-style-type"
+			],
+			[
+				"box-z",
+				"-moz-box-sizing:   (property)"
+			],
+			[
+				"fi",
+				"first-child"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"fff",
+				"F0F0F0"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"op",
+				"op:ms	-ms-filter:opacity"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"lis",
+				"list	list-style-type"
+			],
+			[
+				"bor",
+				"border-left"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pretif",
+		"selected_items":
+		[
+			[
+				"pretif",
+				"HTMLPrettify"
+			],
+			[
+				"css",
+				"SassBeautify: Convert from CSS to current type"
+			],
+			[
+				"pretify",
+				"HTMLPrettify"
+			],
+			[
+				"preti",
+				"HTMLPrettify"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"bea",
+				"HTMLBeautify"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"cssc",
+				"SassBeautify: Convert from CSS to current type"
+			],
+			[
+				"scss",
+				"SassBeautify: Convert from CSS to current type"
+			],
+			[
+				"sass",
+				"SassBeautify: Convert from CSS to current type"
+			],
+			[
+				"pack",
+				"Package Control: Discover Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"emme",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"emmet enc",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"emmet en",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"au",
+				"Autoprefix CSS"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"tor",
+				"TortoiseSVN: Commit"
+			],
+			[
+				"tid",
+				"Tidy HTML"
+			],
+			[
+				"tidy",
+				"Tidy CSS"
+			],
+			[
+				"ti",
+				"Tidy HTML"
+			],
+			[
+				"wo",
+				"WordPress: Open Config File"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"html",
+				"Tidy HTML"
+			],
+			[
+				"snip de",
+				"Snippet: desktop  laptop"
+			],
+			[
+				"sni mo",
+				"Snippet: smartphone"
+			],
+			[
+				"snipe",
+				"Snippet: :focus"
+			],
+			[
+				"snip",
+				"Snippet: ipad"
+			],
+			[
+				"clea",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ty",
+				"Tidy HTML"
+			],
+			[
+				"bro",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sft",
+				"SFTP: Setup Server…"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"sftp",
+				"SFTP: Setup Server…"
+			],
+			[
+				"live",
+				"LiveStyle: Apply Patch"
+			],
+			[
+				"remoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"qu",
+				"Git: Quick Commit"
+			],
+			[
+				"qi",
+				"Git: Quick Commit"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"git ",
+				"Git: Push"
+			],
+			[
+				"git qu",
+				"Git: Quick Commit"
+			],
+			[
+				"git q",
+				"Git: Quick Commit"
+			],
+			[
+				"git qui",
+				"Git: Quick Commit"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"gut",
+				"Git: Quick Commit"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"gi",
+				"Git: Push"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"subl",
+				"SublimeZilla: Import FileZilla Server"
+			],
+			[
+				"a",
+				"Autoprefix CSS"
+			],
+			[
+				"colo",
+				"BracketHighlighter: Toggle Global Enable"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 199.0,
+		"history":
+		[
+			"restart",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Works/Verstka/kovanii_dizain"
+	],
+	"file_history":
+	[
+		"/D/html/index.html",
+		"/D/Works/Verstka/assuta.co.il/html/index.html",
+		"/D/Works/Verstka/assuta.co.il/assets/sass/main.scss",
+		"/D/Works/Verstka/assuta.co.il/gulpfile.js",
+		"/D/Works/Verstka/assuta.co.il/wordpress/wp-config.php",
+		"/D/Works/Verstka/assuta.co.il/assets/sass/old/_main.scss",
+		"/D/Works/Verstka/assuta.co.il/assets/sass/old/_nivo-slider.scss",
+		"/D/Works/Verstka/assuta.co.il/assets/sass/old/_idangerous.swiper.scss",
+		"/D/Works/Verstka/assuta.co.il/assets/js/validator.js",
+		"/D/Works/Verstka/assuta.co.il/html/index_o.html",
+		"/D/Works/Verstka/assuta.co.il/assets/js/LT63lGZREmg.js",
+		"/D/Works/Verstka/assuta.co.il/assets/js/lnLMiyUYJ5K.js",
+		"/D/Works/Verstka/assuta.co.il/assets/js/kz1sMA2MmR1.js",
+		"/D/Works/Verstka/assuta.co.il/assets/js/jquery.prettyPhoto.js",
+		"/D/Works/Verstka/assuta.co.il/assets/js/jquery.nivo.slider.js",
+		"/D/Works/Verstka/assuta.co.il/assets/js/dropdown.js",
+		"/D/Works/Verstka/assuta.co.il/assets/js/countries.js",
+		"/D/Works/Verstka/assuta.co.il/assets/js/functionjs.js",
+		"/D/Works/Verstka/assuta.co.il/assets/js/idangerous.swiper.min.js",
+		"/D/Works/Verstka/assuta.co.il/assets/js/c_smartmenus.js",
+		"/D/Works/Verstka/assuta.co.il/assets/js/BotDetectScript.js",
+		"/D/Works/Verstka/assuta.co.il/assets/js/c_config.js",
+		"/D/Works/Verstka/assuta.co.il/assets/sass/old/_prettyPhoto.scss",
+		"/D/Works/Verstka/assuta.co.il/assets/sass/old/_chat-v5.scss",
+		"/D/Works/Verstka/assuta.co.il/html_old/contact-form.html",
+		"/D/Works/Verstka/assuta.co.il/assets/js/y97Ig99UVTs.js",
+		"/D/Works/Verstka/assuta.co.il/assets/js/VXcANLwwL5J.js",
+		"/D/Works/Verstka/assuta.co.il/assets/js/fbds.js",
+		"/D/Works/Verstka/assuta.co.il/assets/sass/old/_AZ6eZScAICY.scss",
+		"/D/Works/Verstka/assuta.co.il/assets/sass/old/_cWVIf3e-hH0.scss",
+		"/D/Works/Verstka/assuta.co.il/html_old/faq.html",
+		"/D/Works/Verstka/assuta.co.il/html_old/page.html",
+		"/D/Works/Verstka/assuta.co.il/html_old/index.html",
+		"/D/Works/Verstka/assuta.co.il/html_old/search.html",
+		"/D/Works/Verstka/proffett.tmweb.dev/wordpress/wp-content/themes/wp-flib/functions.php",
+		"/D/Works/Verstka/proffett.tmweb.dev/wordpress/wp-content/themes/wp-flib/single-advice.php",
+		"/D/Works/Verstka/proffett.tmweb.dev/assets/js/scripts.js",
+		"/D/Works/Verstka/proffett.tmweb.dev/wordpress/wp-content/themes/wp-flib/footer.php",
+		"/D/Works/Verstka/proffett.tmweb.dev/wordpress/wp-content/themes/wp-flib/front-page.php",
+		"/D/Works/Verstka/proffett.tmweb.dev/wordpress/wp-content/themes/wp-flib/sidebar.php",
+		"/D/Works/Verstka/proffett.tmweb.dev/wordpress/wp-content/themes/wp-flib/single.php",
+		"/D/Works/Verstka/proffett.tmweb.dev/wordpress/wp-content/themes/wp-flib/category-advice.php",
+		"/D/Works/Verstka/proffett.tmweb.dev/assets/sass/main.scss",
+		"/D/Works/Verstka/proffett.tmweb.dev/wordpress/wp-content/themes/wp-flib/page-gallery-cat.php",
+		"/D/Works/Verstka/proffett.tmweb.dev/wordpress/wp-content/themes/wp-flib/search.php",
+		"/D/Works/Verstka/proffett.tmweb.dev/wordpress/wp-content/themes/wp-flib/index.php",
+		"/D/Works/Verstka/proffett.tmweb.dev/wordpress/wp-content/themes/wp-flib/loop.php",
+		"/D/Works/Verstka/proffett.tmweb.dev/wordpress/wp-content/themes/wp-flib/category.php",
+		"/D/Works/Verstka/proffett.tmweb.dev/wordpress/wp-content/themes/wp-flib/404.php",
+		"/D/Works/Verstka/proffett.tmweb.dev/wordpress/wp-content/themes/wp-flib/page-gallery-main.php",
+		"/D/Works/Verstka/proffett.tmweb.dev/src/_working_single_gallery/js/scripts.js",
+		"/D/Works/Verstka/proffett.tmweb.dev/gulpfile.js",
+		"/D/Works/Verstka/proffett.tmweb.dev/wordpress/wp-content/themes/wp-flib/header.php",
+		"/D/Works/Verstka/proffett.tmweb.dev/wordpress/wp-content/themes/wp-flib/page-plan-single.php",
+		"/D/Works/Verstka/proffett.tmweb.dev/wordpress/wp-content/themes/wp-flib/page-plan-main.php",
+		"/D/Works/Verstka/proffett.tmweb.dev/html/page-plans.html",
+		"/C/Users/Vitaly/AppData/Local/Temp/Rar$DIa0.510/style.css",
+		"/D/Works/Verstka/proffett.tmweb.dev/wordpress/wp-content/themes/wp-flib/page-menu-single.php",
+		"/D/Works/Verstka/proffett.tmweb.dev/wordpress/wp-content/themes/wp-flib/sidebar-full.php",
+		"/D/Works/Verstka/proffett.tmweb.dev/wordpress/wp-content/themes/wp-flib/page-menu-category.php",
+		"/D/Works/Verstka/proffett.tmweb.dev/wordpress/wp-content/themes/wp-flib/page.php",
+		"/D/Works/Verstka/proffett.tmweb.dev/html/menu-2.html",
+		"/D/Works/Verstka/proffett.tmweb.dev/html/index.html",
+		"/D/Works/Verstka/proffett.tmweb.dev/psd/page-menu-category.php",
+		"/D/Works/Verstka/proffett.tmweb.dev/wordpress/wp-content/themes/wp-flib/page-vacancies.php",
+		"/D/Works/Verstka/proffett.tmweb.dev/wordpress/wp-content/themes/wp-flib/slider.php",
+		"/D/Works/Verstka/proffett.tmweb.dev/wordpress/wp-content/themes/wp-flib/style.css",
+		"/D/Works/Verstka/proffett.tmweb.dev/wordpress/wp-config.php",
+		"/D/Works/Verstka/proffett.tmweb.dev/html/menu-1.html",
+		"/D/Works/Verstka/proffett.tmweb.dev/html/page-plan-1.html",
+		"/D/Works/Verstka/proffett.tmweb.dev/html/category-advice.html",
+		"/D/Works/Lessons/webpack-test4/index.html",
+		"/D/Works/Lessons/webpack-test4/package.json",
+		"/D/Works/Lessons/webpack-test4/bower.json",
+		"/D/Works/Lessons/webpack-test4/gulpfile.babel.js",
+		"/D/Works/Lessons/webpack-test4/webpack.src.js",
+		"/D/Works/Lessons/webpack-test4/node_modules/jquery/dist/jquery.js",
+		"/C/Users/Vitaly/AppData/Local/Temp/_tc/owl.carousel.2.0.0-beta.2.4/assets/owl.carousel.css",
+		"/D/Works/Lessons/webpack-test4/jquery.scrollintoview.js",
+		"/D/Works/Lessons/webpack-test4/webpack.bundle.js",
+		"/D/Works/Verstka/proffett.tmweb.dev/assets/sass/import/_variables.scss",
+		"/D/Works/Lessons/webpack-test3/index.html",
+		"/D/Works/Lessons/webpack-test3/gulpfile.js",
+		"/D/Works/Lessons/webpack-test3/webpack.config.js",
+		"/D/Works/Lessons/webpack-test3/src/client/app.jsx",
+		"/D/Works/Lessons/webpack-test3/src/client/owl.carousel.js",
+		"/D/Works/Lessons/webpack-test2/gulpfile.js",
+		"/D/Works/Lessons/webpack-test3/src/client/scripts.js",
+		"/D/Works/Lessons/webpack-test3/css/main.css",
+		"/D/Works/Verstka/proffett.tmweb.dev/html/gallery-single.html",
+		"/D/Works/Verstka/proffett.tmweb.dev/src/_working_home_gallery/js/scripts.js",
+		"/D/__/doctormarina_root_directory/doctormarina_root_directory/var/www/doctormarina/www/javascript.php.suspected",
+		"/D/Works/Lessons/webpack-test3/src/client/testing.jsx",
+		"/D/Works/Verstka/gulp-es6-webpack-example/gulpfile.babel.js",
+		"/D/Works/Lessons/webpack-test2/js/scripts.js",
+		"/D/Works/Lessons/webpack-test/webpack.config.js",
+		"/D/Works/Lessons/webpack-test/entry.js",
+		"/D/Works/Verstka/proffett.tmweb.dev/html/js/vendor.js",
+		"/D/Works/Lessons/webpack-test/jquery.mCustomScrollbar.js",
+		"/D/Works/Lessons/webpack-test/node_modules/jquery/dist/jquery.js",
+		"/D/Works/Lessons/webpack-test/vendor/jquery.mCustomScrollbar.js",
+		"/D/Works/Lessons/webpack-test/test.html",
+		"/D/Works/Lessons/webpack-test/src/scripts.js",
+		"/D/Works/Verstka/proffett.tmweb.dev/assets/jsapp/jquery-2.2.3.js",
+		"/D/Works/Lessons/webpack-test/node_modules/jquery/src/selector.js",
+		"/D/Works/Lessons/webpack-test/package.json",
+		"/D/Works/Lessons/webpack-test/content.js",
+		"/D/Works/Lessons/webpack-test/src/owl.all.carousel-d.js",
+		"/D/Works/Verstka/proffett.tmweb.dev/assets/jsapp/owl.carousel.js",
+		"/D/Works/Verstka/gulp-es6-webpack-example/webpack.config.babel.js",
+		"/D/Works/Lessons/webpack/webpack.config.js",
+		"/D/Works/Lessons/webpack/entry.js",
+		"/D/Works/Lessons/webpack/bundle.js",
+		"/D/Works/Lessons/webpack/package.json",
+		"/D/Works/Verstka/gulp-es6-webpack-example/package.json",
+		"/D/Works/Verstka/gulp-es6-webpack-example/_old/cat.js",
+		"/D/Works/Verstka/gulp-es6-webpack-example/_old/main.js",
+		"/D/Works/Verstka/gulp-es6-webpack-example/_old/zoo.js",
+		"/D/Works/Verstka/proffett.tmweb.dev/html/page-advice-3.html",
+		"/D/Works/Verstka/proffett.tmweb.dev/html/page-advice-2.html",
+		"/D/Works/Verstka/proffett.tmweb.dev/html/page-advice-1.html",
+		"/D/Works/Verstka/proffett.tmweb.dev/html/page-plan-3.html",
+		"/D/Works/Verstka/proffett.tmweb.dev/html/page-plan-2.html",
+		"/D/Works/Verstka/proffett.tmweb.dev/html/page-vacancies.html",
+		"/D/Works/Verstka/proffett.tmweb.dev/browserify/owl.all.carousel.js",
+		"/D/Works/Verstka/proffett.tmweb.dev/browserify/gallery-main-page.js",
+		"/D/Works/Verstka/proffett.tmweb.dev/browserify/gallery-single-page.js",
+		"/D/Works/Verstka/proffett.tmweb.dev/html/js/scripts.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"prettyPhoto",
+			"valign=\"top\"",
+			"nivoSlider",
+			"temp",
+			"templa",
+			"&#39;template/images/blue_pix1.gif&#39;",
+			"&quot;files/banners/ivf.jpg&quot;",
+			"template/images/sm_menu_sep.gif",
+			"&#39;template/images/menu_stripe.gif&#39;",
+			"img/prettyPhoto",
+			"images/prettyPhoto",
+			"images/prettyPhoto/light_rounded/sprite.png",
+			"images/prettyPhoto/default/loader.gif",
+			"images/prettyPhoto/default/default_thumb.png",
+			"images/prettyPhoto/default/sprite_prev.png",
+			"images/prettyPhoto/default/sprite_next.png",
+			"images/prettyPhoto/default/sprite_y.png",
+			"images/prettyPhoto/default/sprite_x.png",
+			"images/prettyPhoto/default/sprite.png",
+			"images",
+			"images/relax_bullet.png",
+			"images/relax_menu_bg.jpg",
+			"images/contact_relax_bg.jpg",
+			"images/header_stripe_bg.jpg",
+			"images/rank_bronze_big.png",
+			"images/rank_silver_big.png",
+			"images/rank_gold_big.png",
+			"images/rank_bronze.png",
+			"images/rank_silver.png",
+			"images/rank_gold.png",
+			"images/new_contact_arrow.png",
+			"images/contact_bg.jpg",
+			"images/betbutton1.gif",
+			"images/bottom_stripe.jpg",
+			"images/dotnew.gif",
+			"images/submenu_sep.gif",
+			"images/arrow3.gif",
+			"images/department_separator.gif",
+			"images/home_bg.jpg",
+			"images/contact_top_bg.jpg",
+			"images/contact_bg.gif",
+			"images/level2_arrow.gif",
+			"images/department_bg_over1.jpg",
+			"images/department_bg_over.jpg",
+			"images/department_bg1.jpg",
+			"images/department_bg.jpg",
+			"/template/images/gray_tab.jpg",
+			"/template/images/green_tab.jpg",
+			"images/call_b.jpg",
+			"images/assutaeftk.gif",
+			"images/kit color.jpg",
+			"images/blue_bullet1.gif",
+			"images/table_bullet.gif",
+			"images/membertitle.gif",
+			"images/history_page_bg.jpg",
+			"images/last-menu-item-bg.gif",
+			"images/buttons_background.gif",
+			"url",
+			"popupButton",
+			"src=\"./index_files/",
+			"src=\"./index_files",
+			"<script",
+			"<link",
+			"<style",
+			"faceporn",
+			"header",
+			"scrip",
+			".row-head-nav",
+			"sidebar",
+			"sidebarnav",
+			"menu",
+			"col-md-4 menu-category-inner",
+			".home-page",
+			".row",
+			"header",
+			"row",
+			"owl",
+			"webpackCompiler",
+			"webpac",
+			"grun",
+			"$(\".owl-",
+			"$('.owl-",
+			".owl-",
+			"dist",
+			"path",
+			"	",
+			"Moyenage",
+			" style=\"\"",
+			" height: 24.7188px;",
+			"width: 277px;",
+			"height: 24px;",
+			"width: 260px;",
+			" text-align: center;",
+			" height: 24px;",
+			"scrip",
+			"	",
+			"div>",
+			"580",
+			"460",
+			"sync1",
+			"sync2",
+			"owl-carousel",
+			"$white",
+			"#c69f6e",
+			".owl-item",
+			"page-title",
+			".wide-rope",
+			"box-shad",
+			"asid",
+			"ase",
+			"asei",
+			".bg-brown",
+			"article",
+			"49, 22, 10",
+			"49, 22, 10, 0.560784",
+			"slider",
+			"logo",
+			"col-md-logo",
+			"footer",
+			"826451",
+			"251c16",
+			"footer",
+			"opensans-light-webfont",
+			"opensans-semibold-webfont",
+			"opensans-regular-webfont",
+			"opensans-bold-webfont",
+			"Open Sans",
+			"svg"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'img/blue_pix1.gif'",
+			"'img/ivf.jpg'",
+			"'img/sm_menu_sep.gif'",
+			"'img/menu_stripe.gif'",
+			"img",
+			"../img",
+			"../img/prettyPhoto",
+			"../img/sprite3.png",
+			"../img/loader.gif",
+			"../img/default_thumb.png",
+			"../img/sprite_prev.png",
+			"../img/sprite_next.png",
+			"../img/sprite_y.png",
+			"../img/sprite_x.png",
+			"../img/sprite2.png",
+			"../img/relax_bullet.png",
+			"../img/relax_menu_bg.jpg",
+			"../img/contact_relax_bg.jpg",
+			"../img/header_stripe_bg.jpg",
+			"../img/rank_bronze_big.png",
+			"../img/rank_silver_big.png",
+			"../img/rank_gold_big.png",
+			"../img/rank_bronze.png",
+			"../img/rank_silver.png",
+			"../img/rank_gold.png",
+			"../img/new_contact_arrow.png",
+			"../img/contact_bg.jpg",
+			"../img/betbutton1.gif",
+			"../img/bottom_stripe.jpg",
+			"../img/dotnew.gif",
+			"../img/submenu_sep.gif",
+			"../img/arrow3.gif",
+			"../img/department_separator.gif",
+			"../img/home_bg.jpg",
+			"../img/contact_top_bg.jpg",
+			"../img/contact_bg.gif",
+			"../img/level2_arrow.gif",
+			"../img/department_bg_over1.jpg",
+			"../img/department_bg_over.jpg",
+			"../img/department_bg1.jpg",
+			"../img/department_bg.jpg",
+			"../img/green_tab.jpg",
+			"../img/call_b.jpg",
+			"../img/assutaeftk.gif",
+			"../img/kit color.jpg",
+			"../img/blue_bullet1.gif",
+			"../img/table_bullet.gif",
+			"../img/membertitle.gif",
+			"../img/history_page_bg.jpg",
+			"../img/last-menu-item-bg.gif",
+			"../img/buttons_background.gif",
+			"src=\"img/",
+			"src=\"js",
+			"menu-category-inner",
+			".page-template-front-page",
+			"  ",
+			"",
+			"  ",
+			"p>",
+			"120",
+			"owl-gallery-thumbs",
+			"#fff",
+			"$brown",
+			"ptsans-regular-italic",
+			"ptsans-bold-italic",
+			"ptsans-regular",
+			"ptsans-bold",
+			"PT Sans",
+			"ptsans-regular",
+			"PT Sans",
+			"../img",
+			"<img src=\"img/",
+			"js/",
+			"../img/advert-bg.png",
+			"../img/button-search.png",
+			"../img/bg-search.png",
+			"../img/bottom-bg.png",
+			"../img/list-list-marker-hover.png",
+			"../img/list-list-marker.png",
+			"../img/list-marker-hover.png",
+			"../img/list-marker.png",
+			"../img/header-menu-line.png",
+			"../img/bg-hormenu.png",
+			"../img/bg-header.png",
+			"../img/bg-main.jpg",
+			"../img/calendar.png",
+			"../img/selector-arrow.png",
+			"../img/j_button2_blank.png",
+			"../img/j_button2_pagebreak.png",
+			"../img/j_button2_readmore.png",
+			"../img/j_button2_image.png",
+			"../img/j_button2_right.png",
+			"../img/j_button2_left.png",
+			"../img/notice-note.png",
+			"../img/notice-alert.png",
+			"../img/notice-info.png",
+			"../img/star.gif",
+			"../img/zakaz-hover-.png",
+			"../img/zakaz.png",
+			"../img/zakaz-b-hover.png",
+			"../img/zakaz-b.png",
+			"../img/bg-cart-head.png",
+			"../img/hr.png",
+			"../img/bg_nw.png",
+			"../img/bg_w.png",
+			"../img/bg_sw.png",
+			"../img/bg_s.png",
+			"../img/bg_e.png",
+			"../img/bg_ne.png",
+			"../img/bg_n.png",
+			"../img/spinner.gif",
+			"../img/closebox.png",
+			"",
+			"sub-menu",
+			"src=\"<?php echo get_template_directory_uri(); ?>/img",
+			"src=\"img/content/",
+			"src=\"img/partners/",
+			"$nigger-blue",
+			"$gold",
+			"$dark-blue",
+			"img/teams/",
+			"need-inverse",
+			".lmenu",
+			"data-panel",
+			"<?php echo get_template_directory_uri(); ?>/images",
+			"<?php echo get_template_directory_uri(); ?>/images/",
+			"",
+			"https://"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 150.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 183.0
+	},
+	"output.sftp":
+	{
+		"height": 149.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 172.0
+	},
+	"pinned_build_system": "",
+	"project": "kovanii.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Works\\Verstka\\tarkettpolby\\tarkettpolby.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
